@@ -12,7 +12,7 @@ const Card = ({option, answer, style, iconWrong, iconCheck}) =>
     return (
         <div className={styles.Card}>
             <div className={styles.Svg}>
-                <svg width="200" height="104" viewBox="0 0 621 454" fill="none" xmlns="http://www.w3.org/2000/svg">
+                {/* <svg width="200" height="104" viewBox="0 0 621 454" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <g clip-path="url(#clip0_208_7)">
                     <path d="M121.699 76.2366C133.67 76.2366 143.375 66.3607 143.375 54.1781C143.375 41.9955 133.67 32.1195 121.699 32.1195C109.727 32.1195 100.022 41.9955 100.022 54.1781C100.022 66.3607 109.727 76.2366 121.699 76.2366Z" fill="#2F2E41"/>
                     <path d="M55.6766 319.746L68.9943 272.745L73.5281 274.187C73.5281 274.187 68.1443 309.366 59.6436 318.304L55.6766 319.746Z" fill="#2F2E41"/>
@@ -61,7 +61,7 @@ const Card = ({option, answer, style, iconWrong, iconCheck}) =>
                     <rect width="621" height="454" fill="white"/>
                     </clipPath>
                     </defs>
-                </svg>
+                </svg> */}
             </div>
             <h4>Kaula Lumpur is the capital of</h4>
             <div className={styles.CardBody}>
