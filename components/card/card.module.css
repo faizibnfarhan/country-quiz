@@ -1,0 +1,28 @@
+.Card{
+    width: 434px;
+    height: 495px;
+    margin: 15px;
+    position: absolute;
+    cursor: url('../../assets/cursor.png'), default;
+    top: 140px;
+    padding-bottom: 30px;
+    background: #FFFFFF;
+    border-radius: 24px;
+}
+.Svg{
+    display: flex;
+    width: 32.1%;
+    top: -60px;
+    left: 100%;
+    right: 0;
+    position: absolute;
+    margin-left: auto;
+}
+.Card > h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 23px;
+    margin-left: 30px;
+    margin-top: 60px;
+    color: #2F527B;
+}

@@ -1,0 +1,21 @@
+
+.BgOne{
+    width: 790px;
+    height: 690px;
+    left: 1000px;
+    top: -240.28px;
+    position: absolute;
+    background: rgba(109, 114, 211, 0.979);
+    border-radius: 33px;
+    transform: rotate(-64.14deg);
+}
+.BgTwo{
+    width: 694px;
+    height: 1150px;
+    left: 100px;
+    position: absolute;
+    top:180px;
+    background: rgba(109, 114, 211, 0.979);
+    border-radius: 33px;
+    transform: rotate(-62.14deg);
+}
